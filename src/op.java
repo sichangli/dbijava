@@ -23,7 +23,9 @@ public class OP {
 		double[] rs = new double[2];
 		rs[0] = ((p-1)/fcost);
 		rs[1] = p;
-		return 
+		return rs;
 	}
+	
+	
 	
 }
