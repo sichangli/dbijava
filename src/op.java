@@ -5,6 +5,9 @@ public class OP {
 	
 	public static void main(String[] args) {
 		
+		String queryFile = args[0];
+		String configFile = args[1];
+
 	}
 	
 	private double calFixCost(int n, HashMap<String, Double> map){
