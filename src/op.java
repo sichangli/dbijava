@@ -1,4 +1,7 @@
 
-public class op {
+public class OP {
 	
+	public static void main(String[] args) {
+		
+	}
 }
